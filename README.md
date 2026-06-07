@@ -100,5 +100,3 @@ and run all cells.
 ## 📊 Results
 
 The model successfully learns transaction patterns and identifies suspicious activities by analyzing historical transaction data. Performance is evaluated using classification metrics and visualization techniques to ensure effective fraud detection.
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
